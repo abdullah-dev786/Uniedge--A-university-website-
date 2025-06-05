@@ -1,0 +1,190 @@
+nav{
+    padding-left: 9%;
+    padding-right: 9%;
+}
+
+ul li a{
+    font-size: 22px;
+}
+/* --home-------------- */
+.home-container h1{
+    font-size: 82px;
+}
+.home-container p{
+    font-size: 22px;
+    line-height: 38px;
+}
+.home-container a{
+    font-size: 22px;
+    padding: 15px 45px;
+}
+.course-section h1, .campus-section h1, .facilities-section h1,.testimonials-section h1{
+    font-size: 42px;
+}
+.course-section p, .campus-section p, .facilities-section p, .testimonials-section p{
+    font-size: 22px;
+    line-height: 38px;
+}
+.course_col h3{
+    font-size: 26px;
+}
+.facilities-col h3{
+    font-size: 26px;
+
+}
+.campus_col1, .campus_col2, .campus_col3{
+    height: 600px;
+}
+.campus_col1::after, .campus_col2::after, .campus_col3::after{
+    font-size: 24px;
+}
+.facilities-col img{
+    height: 400px;
+}
+.facilities-col h3{
+    font-size: 26px;
+}
+.facilities-col p{
+    font-size: 22px;
+    line-height: 38px;
+}
+/* -testimonial-------------------- */
+.testimonial-col img{
+    width: 130px;
+    height: 130px;
+}
+.testimonial-col h3{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.testimonial-col i{
+    font-size: 22px;
+}
+/* ----------call-to-action-----   */
+.cta-section h1{
+    font-size: 42px;
+    word-spacing: 3px;
+}
+.cta-section a{
+    font-size: 22px;
+    padding: 15px 45px;
+}
+/* -----------footer------------ */
+.footer-section h4{
+    font-size: 26px;
+
+}
+.footer-section p{
+    font-size: 22px;
+    line-height: 38px;
+}
+.icons i{
+    font-size: 22px;
+    width: 50px;
+    height: 50px;
+    padding: 12px;
+    
+    
+}
+.footer-section h5{
+    font-size: 22px;
+}
+/* ---------sub-pages------- */
+.sub-container h1{
+    font-size: 62px;
+}
+.content-col h1{
+    font-size: 42px;
+}
+.content-col p{
+    font-size: 22px;
+    line-height: 38px;
+}
+.content-col a{
+    font-size: 22px;
+    padding: 15px 45px;
+}
+/* -----------blog----------- */
+.blog-left-col h1{
+    font-size: 42px;
+}
+.blog-left-col p{
+    font-size: 22px;
+    line-height: 38px;
+}
+.blog-right-col h1{
+    font-size: 26px;
+    padding: 10px 0px;
+}
+.blog-right-col .post{
+    font-size: 22px;
+    line-height: 38px;
+}
+.form-container{
+    width: 80%;
+    padding: 15px 25px;
+}
+.comment-form input,.comment-form textarea{
+    font-size: 22px;
+    padding: 20px;
+}
+.comment-form textarea{
+    margin-bottom: 20px;
+}
+
+.comment-form input::placeholder,.comment-form textarea::placeholder{
+    font-size: 22px;
+}
+.comment-form button,.contact-col button,.real-form button{
+    font-size: 22px;
+    padding: 15px 45px;
+}
+/* -----------contact--------- */
+.contact-col .address i{
+    font-size: 40px;
+    margin-right: 25px;
+}
+.contact-col .address p{
+    font-size: 21px;
+    /* line-height: 38px; */
+}
+.contact-col .address h5{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.contact-col input, .contact-col textarea{
+    font-size: 22px;
+    padding: 20px;
+}
+.contact-col textarea{
+    margin-bottom: 20px;
+}
+.contact-col input::placeholder,.contact-col textarea::placeholder{
+    font-size: 22px;
+}
+.contact-col button{
+    font-size: 22px;
+    padding: 15px 45px;
+}
+.map iframe{
+    width: 80%;
+    margin:auto ;
+    display: block;
+}
+/* apply-now--------------- */
+.apply-col1 h1{
+    font-size: 42px;
+}
+.apply-col1 p{
+    font-size: 22px;
+    line-height: 38px;
+}
+.apply-form input,.apply-form textarea{
+    font-size: 22px;
+    padding: 20px 15px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+.apply-form input::placeholder,.apply-form textarea::placeholder{
+    font-size: 22px;
+}

@@ -1,0 +1,117 @@
+.home-container h1{
+    font-size: 45px;
+}
+.home-container p{
+   line-height: 25px;
+}
+/* ----------course------------ */
+.row{
+    flex-direction: column;
+    align-items: center;
+}
+.course_col{
+    max-width: 70%; 
+
+}
+/* -----------campus------------ */
+.campus_row{
+    flex-direction: column;
+    align-items: center;
+
+}
+.campus_col1, .campus_col2, .campus_col3{
+    max-width: 70%;
+    /* margin-bottom: 30px; */
+}
+.campus_col1 img, .campus_col2 img, .campus_col3 img{
+    width: 100%;
+    height: 90%;
+}
+/* ----facility----- */
+.facilities-row{
+    flex-direction: column;
+    align-items: center;
+}
+.facilities-col{
+    max-width: 70%;
+  
+}
+/* ----testimonial------ */
+.testimonial-row{
+    flex-direction: column;
+    align-items: center;
+}
+.testimonial-col{
+    max-width: 70%;
+
+    flex-direction: column;
+}
+.testimonial-col img{
+    display: block;
+    margin: 20px auto 20px auto;
+
+}
+/* -------about--------- */
+.content-row{
+    flex-direction: column;
+    align-items: center;
+}
+.content-col{
+    max-width: 90%;
+}
+
+.content-col h1{
+    font-size: 28px;
+}
+/* -------blog------- */
+.blog-row{
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: normal; */
+}
+.blog-left-col{
+    max-width: 90%;
+    margin-left:auto;
+    margin-right: auto;
+}
+.blog-right-col{
+    /* border: 2px solid red; */
+    max-width: 90%;
+    margin-left:39px;
+    /* margin-right: auto; */
+}
+/* -----contact--------- */
+.contact-row{
+    flex-direction: column;
+    align-items: center;
+}
+.contact-col{
+    max-width: 90%;
+}
+.contact-info{
+    margin-right: auto;
+    margin-left: 50px;
+}
+.contact-col .address{
+    /* margin-right: auto; */
+}
+.contact-col .address:nth-child(3){
+    margin-right: 20px;
+}
+.map iframe{
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+/* -form- */
+.real-form button{
+    /* text-align: left; */
+    display: block;
+    margin: auto;
+
+}
+.apply-form textarea{
+    width: 70%;
+    display: block;
+    margin: 0px auto 20px auto;
+}
